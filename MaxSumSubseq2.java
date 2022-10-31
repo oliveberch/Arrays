@@ -1,5 +1,3 @@
-import java.lang.*;
-import java.util.*;
 class MaxSumSubseq2 {
     int findMaxSum(int arr[], int n)
     {
